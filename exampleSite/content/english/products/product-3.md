@@ -7,7 +7,7 @@ images:
 - images/showcase/showcase-1.png
 - images/showcase/showcase-4.png
 description: Inteligente como nadie más
-price: '30.00'
+price: '35.00'
 discount_price: '25.00'
 colors:
 - black
