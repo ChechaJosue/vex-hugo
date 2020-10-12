@@ -51,11 +51,11 @@ weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "$"
+currency = "Q"
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "100px"
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "NTI0OTYzZjEtYWI0Yy00YTlkLWFkM2UtYjg1MmQ0YTZhY2FjNjM3MzUxMjg5MjYyMTk5Mzg4"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
